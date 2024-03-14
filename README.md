@@ -93,8 +93,6 @@ finally:
     # always do this
 ```
 
-Certainly! Let's expand the cheat sheet to cover more advanced Python syntax, including details about arrays (via the array module for typed arrays), more on lists, and additional concepts that might be useful for your test.
-
 ### Advanced Collections
 
 #### Lists (More Details)
